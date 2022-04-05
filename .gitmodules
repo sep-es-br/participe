@@ -1,0 +1,3 @@
+[submodule "participe-api"]
+	path = participe-api
+	url = https://github.com/sep-es-br/participe-api.git
