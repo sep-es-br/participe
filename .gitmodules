@@ -1,0 +1,9 @@
+[submodule "participe-api"]
+	path = participe-api
+	url = https://github.com/sep-es-br/participe-api.git
+[submodule "participe-portal"]
+	path = participe-portal
+	url = https://github.com/sep-es-br/participe-portal.git
+[submodule "participe-web"]
+	path = participe-web
+	url = https://github.com/sep-es-br/participe-web.git
